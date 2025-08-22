@@ -9,6 +9,9 @@ import pandas as pd
 
 # CSV 파일 경로
 file_path = "/Users/jaehyuntak/Desktop/pjt-data-analysis/data_row/combined_seoul_apt_sales_20250821.csv"
+# file_path = "/Users/jaehyuntak/Desktop/pjt-data-analysis/data_row/combined_seoul_apt_sales_20250821.csv"
+## 원본 폴더 위치 : /Users/jaehyuntak/Desktop/Project_____현재 진행중인/pjt-data-Note/original_data/original_data_seoul_apt
+
 
 # CSV 불러오기
 df = pd.read_csv(file_path, encoding='utf-8')  # 인코딩 utf-8, euc-kr 등 파일에 맞춰 조정
