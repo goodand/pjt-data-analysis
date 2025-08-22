@@ -207,4 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # data
-data_row 
+data_row # Data files
+*.csv
+raw_data/
+processed_data/
