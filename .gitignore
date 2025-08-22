@@ -208,6 +208,8 @@ __marimo__/
 
 # data
 data_row/
+raw_data/
+
 processed_data/
 
 # backup
